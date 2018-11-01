@@ -1,2 +1,3 @@
 # SHS-DM
-This application allows Staples High Schools to communicate succinctly with their teachers without having to go through the trouble of sending emails and having to search for an email back. 
+This application allows Staples High Schools to communicate succinctly with their teachers without having to go through the trouble of sending emails and having to search for an email back. The way this app will do this is by allowing the student to propose an event to the teacher that the teacher can either reject or accept, if accepted, the event will be put officially on both the virtual calendar of the student and the teacher. The app will also utilize the Gmail API in order to send a reminder email to the teacher whenever a student proposes an event, giving a link to the teacher to the application platform.
+
